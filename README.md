@@ -53,21 +53,20 @@ plt.plot(t,s)
 
 
 Output Waveform
+
 <img width="680" height="515" alt="image" src="https://github.com/user-attachments/assets/f6792179-9485-49b5-af12-33c53ab85f0b" />
 
 
 
 
 Tabular Column
-<img width="700" height="939" alt="image" src="https://github.com/user-attachments/assets/0b6b5bcc-e991-411c-a460-714ad366780d" />
+
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/0b6b5bcc-e991-411c-a460-714ad366780d" />
 
 
 Calculation
-<img width="958" height="923" alt="image" src="https://github.com/user-attachments/assets/893d7051-a888-4f25-917f-cd12d9acd5ed" />
 
-
-
-
+<img width="700" height="923" alt="image" src="https://github.com/user-attachments/assets/893d7051-a888-4f25-917f-cd12d9acd5ed" />
 
 Result
 
