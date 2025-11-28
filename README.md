@@ -61,7 +61,8 @@ Output Waveform
 
 Tabular Column
 
-<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/0b6b5bcc-e991-411c-a460-714ad366780d" />
+![WhatsApp Image 2025-11-28 at 5 50 39 PM](https://github.com/user-attachments/assets/ce7457bf-8399-4b98-9c64-ae5eee293443)
+
 
 
 Calculation
